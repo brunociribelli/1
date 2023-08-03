@@ -1,6 +1,6 @@
 > # Atividade Prática do Módulo 2 - RecodePro
 
-🛫Uma agência de viagens precisa de você para desenvolver uma série de módulos para organizar as informações dos seus clientes.
+🛫  Uma agência de viagens precisa de você para desenvolver uma série de módulos para organizar as informações dos seus clientes.
 
 🛅  Apresentar seus serviços e melhorar os serviços oferecidos aos seus parceiros. 
 
