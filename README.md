@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>HTML</td>
-    <td>CSS</td>
+    <td>CSS</td> 
     <td>BOOTSTRAP  </td>
   </tr>
 </table>
